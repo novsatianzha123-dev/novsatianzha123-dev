@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🏢 Organizations & Activities
+
+- **INACOS Laboratory** — Laboratory Assistant, Mechanical Division
+- **Open Library Telkom University** — Library Ambassador 0.1, Vice Greeter
+- **Telkom Dormitory 14** — Senior Resident, R&D Division
+- **Biomedical Engineering Program** — Program Information Systems Assistant; Documentation, Design & Video Editing
+
 <!--
 **novsatianzha123-dev/novsatianzha123-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
